@@ -1,0 +1,4 @@
+interface:
+  display_name: "果冻世界 · 基础2.0通用版"
+  short_description: "从主题创作清透圆润的Three.js基础果冻微缩场景，含观察与轻互动"
+  default_prompt: "使用 $jelly-world-basic 按我的主题制作一个有奇思妙想的基础果冻微缩场景，完成Three.js渲染、拖动观察和一处点击互动。"
